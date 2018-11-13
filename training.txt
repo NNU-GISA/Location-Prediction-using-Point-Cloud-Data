@@ -1,0 +1,141 @@
+(env1) Ashwins-MacBook-Air:project ashwindeshpande$ python tut001.py 
+/Users/ashwindeshpande/anaconda2/envs/env1/lib/python2.7/site-packages/torchvision/transforms/transforms.py:397: UserWarning: The use of the transforms.RandomSizedCrop transform is deprecated, please use transforms.RandomResizedCrop instead.
+  "please use transforms.RandomResizedCrop instead.")
+/Users/ashwindeshpande/anaconda2/envs/env1/lib/python2.7/site-packages/torchvision/transforms/transforms.py:156: UserWarning: The use of the transforms.Scale transform is deprecated, please use transforms.Resize instead.
+  "please use transforms.Resize instead.")
+CUDA: False
+(228, 906, 3)
+Epoch 0/24
+----------
+train Loss: 1.1397 Acc: 0.0000
+val Loss: 0.9863 Acc: 0.0000
+()
+Epoch 1/24
+----------
+train Loss: 1.1055 Acc: 0.0000
+val Loss: 1.0560 Acc: 0.0000
+()
+Epoch 2/24
+----------
+train Loss: 1.0425 Acc: 0.0000
+val Loss: 0.9916 Acc: 0.0000
+()
+Epoch 3/24
+----------
+train Loss: 0.9622 Acc: 0.0000
+val Loss: 0.9889 Acc: 0.0000
+()
+Epoch 4/24
+----------
+train Loss: 0.9392 Acc: 0.0000
+val Loss: 0.9326 Acc: 0.0000
+()
+Epoch 5/24
+----------
+train Loss: 0.9085 Acc: 0.0000
+val Loss: 0.7388 Acc: 0.0000
+()
+Epoch 6/24
+----------
+train Loss: 0.9113 Acc: 0.0000
+val Loss: 0.9091 Acc: 0.0000
+()
+Epoch 7/24
+----------
+train Loss: 0.7990 Acc: 0.0000
+val Loss: 0.7696 Acc: 0.0000
+()
+Epoch 8/24
+----------
+train Loss: 0.7554 Acc: 0.0000
+val Loss: 0.7153 Acc: 0.0000
+()
+Epoch 9/24
+----------
+train Loss: 0.7498 Acc: 0.0000
+val Loss: 0.6825 Acc: 0.0000
+()
+Epoch 10/24
+----------
+train Loss: 0.7502 Acc: 0.0000
+val Loss: 0.6968 Acc: 0.0000
+()
+Epoch 11/24
+----------
+train Loss: 0.7055 Acc: 0.0000
+val Loss: 0.6588 Acc: 0.0000
+()
+Epoch 12/24
+----------
+train Loss: 0.7003 Acc: 0.0000
+val Loss: 0.6463 Acc: 0.0000
+()
+Epoch 13/24
+----------
+train Loss: 0.6987 Acc: 0.0000
+val Loss: 0.6414 Acc: 0.0000
+()
+Epoch 14/24
+----------
+train Loss: 0.7038 Acc: 0.0000
+val Loss: 0.6540 Acc: 0.0000
+()
+Epoch 15/24
+----------
+train Loss: 0.6527 Acc: 0.0000
+val Loss: 0.6226 Acc: 0.0000
+()
+Epoch 16/24
+----------
+train Loss: 0.6772 Acc: 0.0000
+val Loss: 0.6067 Acc: 0.0000
+()
+Epoch 17/24
+----------
+train Loss: 0.6693 Acc: 0.0000
+val Loss: 0.6265 Acc: 0.0000
+()
+Epoch 18/24
+----------
+train Loss: 0.6666 Acc: 0.0000
+val Loss: 0.6148 Acc: 0.0000
+()
+Epoch 19/24
+----------
+train Loss: 0.6778 Acc: 0.0000
+val Loss: 0.6391 Acc: 0.0000
+()
+Epoch 20/24
+----------
+train Loss: 0.7158 Acc: 0.0000
+val Loss: 0.6884 Acc: 0.0000
+()
+Epoch 21/24
+----------
+train Loss: 0.6769 Acc: 0.0000
+val Loss: 0.6058 Acc: 0.0000
+()
+Epoch 22/24
+----------
+train Loss: 0.6731 Acc: 0.0000
+val Loss: 0.6023 Acc: 0.0000
+()
+Epoch 23/24
+----------
+train Loss: 0.6968 Acc: 0.0000
+val Loss: 0.6076 Acc: 0.0000
+()
+Epoch 24/24
+----------
+train Loss: 0.6587 Acc: 0.0000
+val Loss: 0.6233 Acc: 0.0000
+()
+Training complete in 432m 44s
+Best val Acc: 0.000000
+(224, 224, 3)
+(224, 224, 3)
+(224, 224, 3)
+(224, 224, 3)
+(224, 224, 3)
+(224, 224, 3)
+(env1) Ashwins-MacBook-Air:project ashwindeshpande$ 
