@@ -2,4 +2,8 @@
 Computer vision for autonomous driving.
 This project is created as a part of Research Undergraduate Projectwork.
 
-Keywords: Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Convolution Neural Networks, VGG, GoogleNet, ResNet, PyTorch, PointCloud Data, Depth Images.
+Keywords: Computer Vision, Deep Learning, Convolution Neural Networks, VGG, GoogleNet, ResNet, PyTorch, PointCloud Data, Depth Images.
+
+## 1. Introduction
+
+This is a image classfication project, created in part for autonomous driving. It uses Computer Vision techniques
